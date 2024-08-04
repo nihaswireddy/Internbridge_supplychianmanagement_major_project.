@@ -1,9 +1,9 @@
 # Internbridge_supplychianmanagement_major_project.
-task: The Amazon Black Friday Rush: overseeing the e-commerce surge
+task: The Amazon Black Friday Rush: overseeing the E-commerce surge
 
  collected a information websites,research books.
  
- a Black Friday rush for an e-commerce company. As an Intern you need
+ a Black Friday rush for an e-commerce company. i forced on
 to do demand forecasting, warehouse optimization, and streamlined delivery. (Focuses
 on inventory management, order fulfillment, logistics coordination)
 
